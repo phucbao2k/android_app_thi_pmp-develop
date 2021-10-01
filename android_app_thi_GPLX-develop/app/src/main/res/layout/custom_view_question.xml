@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp"
+    android:paddingTop="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/txtQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Câu hỏi"
+            android:textSize="19sp"
+            android:paddingBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/txtPass"
+            android:textColor="#FF0015"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/imgQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <RadioGroup
+            android:id="@+id/rdgQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp">
+
+            <RadioButton
+                android:id="@+id/btnA"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:button="@drawable/custom_radio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/btnB"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:button="@drawable/custom_radio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/btnC"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:button="@drawable/custom_radio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/btnD"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:button="@drawable/custom_radio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

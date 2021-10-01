@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text1">Mẹo 600 câu hỏi ôn thi GPLX</string>
+    <string name="text2">Cấp phép</string>
+    <string name="text3">- Đường cấm dừng, cấm đỗ, cấm đi do UBND cấp tỉnh cấp</string>
+    <string name="text4">- Xe quá khổ, quá tải do: cơ quan quản lý đường bộ có thẩm quyền cấp phép</string>
+    <string name="text5">Nồng độ cồn</string>
+    <string name="text6">Người điều khiển xe mô tô, ô tô, máy kéo trên đường mà trong máu hoặc hơi thở có nồng độ cồn: BỊ NGHIÊM CẤM</string>
+    <string name="text7">Khoảng cách an toàn tối thiểu</string>
+    <string name="text8">- 35m nếu vận tốc lưu hành (V) = 69(km/h)</string>
+    <string name="text9">- 55m nếu 60&#60;V&#8804;80</string>
+    <string name="text10">- 70m nếu 80&#60;V&#8804;100</string>
+    <string name="text11">- 100m nếu 100&#60;V&#8804;120</string>
+    <string name="text12">- Dưới 60km/h: Chủ động và đảm bảo khoảng cách</string>
+    <string name="text13">Hỏi về độ tuổi (T)</string>
+    <string name="text14">- Tuổi tối đa hạng E: nam 55, nữ 50</string>
+    <string name="text15">- Tuổi lấy bằng lái xe (cách nhau 3 tuổi)</string>
+    <string name="text16">+ Gắn máy: 16T (duois 50cm3)</string>
+    <string name="text17">+ Mô tô + B1 + B2: 18T</string>
+    <string name="text18">+ C,FB: 21T</string>
+    <string name="text19">+ D,FC: 24T</string>
+    <string name="text20">+ E,FD: 27T</string>
+    <string name="text21">Trên đường cao tốc, trong đường hầm, đường vòng, đầu dốc, nơi tầm nhìn hạn chế</string>
+    <string name="text22">- Không được quay đầu xe, không lùi, không vượt</string>
+    <string name="text23">- Không được vượt trên cầu hẹp có một làn xe</string>
+    <string name="text24">- Không được phếp quay đầu xe ở phần đường dành cho người đi bộ qua đường</string>
+    <string name="text25">- Cấm lùi xe ở khu vực cấm dừng và nơi đường bộ giao nhau</string>
+    <string name="text26">Tại nơi giao nhau không có tín hiệu đèn</string>
+    <string name="text27">- Có vòng xuyến, Nhường đường bên trái</string>
+    <string name="text28">- Không có vòng xuyến nhường đường bên phải</string>
+    <string name="text29">Thời hạn sử dụng(tính từ năm sx)</string>
+    <string name="text30">- 25 năm: ô tô tải</string>
+    <string name="text31">- 20 năm: ô tô chở người trên 9 chỗ</string>
+    <string name="text32">Biển báo cấm</string>
+    <string name="text33">Cấm ô tô(Gồm: mô tô 3 bánh, xe lam, xe khách), cấm xe tải, cấm máy kéo</string>
+    <string name="text34">Nhất chớm, nhì ưu, tam đường, tứ hướng</string>
+    <string name="text35">1. Nhất chớm: Xe nào chớm tới vạch trước thì được đi trước</string>
+    <string name="text36">2. Nhì ưu: Xe ưu tiên được đi trước. Thứ tự xe ưu tiên: Hỏa-Sự-An-Thương (Cứu hỏa - Quân sự - Công an - Cứu thường - Hộ đê - Đoàn xe tang)</string>
+    <string name="text37">3. Tam đường: Xe ở đường chính, đường ưu tiên</string>
+</resources>

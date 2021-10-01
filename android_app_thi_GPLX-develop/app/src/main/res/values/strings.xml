@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ôn thi GPLX</string>
+    <string name="content_img">Hình ảnh icon</string>
+    <string name="batdauthi">Bắt đầu thi</string>
+    <string name="cacbienbao">Các biển báo</string>
+    <string name="thisahinh">Thi sa hình</string>
+    <string name="cautraloisai">Câu trả lời sai</string>
+    <string name="caudiemliet">Câu điểm liệt</string>
+    <string name="meothi">Mẹo thi</string>
+    <string name="socauhoi">0/35</string>
+    <string name="meo600cau">Mẹo 600 câu hỏi ôn thi GPLX</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="chia_se">Chia sẻ</string>
+    <string name="udkhac">Ứng dụng khác</string>
+    <string name="caidat">Cài đặt</string>
+    <string name="todo" />
+    <string name="clbb">Các loại biển báo</string>
+    <string name="bi_n_b_o_c_m">Biển báo cấm</string>
+    <string name="bi_n_b_o_nguy_hi_m">Biển báo nguy hiểm</string>
+    <string name="xemketqua">Xem kết quả</string>
+    <string name="hetgio">Hết giờ</string>
+    <string name="btn_check">Nộp bài</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="ket_qua">Kết quả thi</string>
+    <string name="diem_la">Điểm của bạn là:</string>
+    <string name="c_c_c_u_i_m_li_t">Các câu điểm liệt</string>
+    <string name="tutorial_pass">Câu điểm liệt là phần rất quan trọng, bạn không được phép sai câu điểm liệt, hãy tập trung ghi nhớ để có thể tự tin vượt qua kì thi!</string>
+    <string name="chi_ti_t">Chi tiết</string>
+</resources>
